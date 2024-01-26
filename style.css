@@ -167,6 +167,15 @@ header.sticky{
     transition: all .42s;
     background-color: #565656;
 }
+.row2{
+    position: relative;
+    transition: all .42s;
+}
+.row2 img{
+    width: 100%;
+    height: auto;
+    transition: all .42s;
+}
 
 .row img{
     width: 100%;
